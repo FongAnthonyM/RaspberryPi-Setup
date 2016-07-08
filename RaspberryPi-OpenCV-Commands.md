@@ -1,5 +1,5 @@
 # Commands for Python3 OpenCV Setup for the Raspberry Pi
-Here are the commands in order to be entered into the Raspberry Pi cammand line for setup.
+Here are the commands, in order, to be entered into the Raspberry Pi cammand line for setting up OpenCV.
 For information on how to use these commands and understand what they do go to the RaspberryPi-OpenCV-Instructions.md file.
 
 
